@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Clima"
+    }
+  },
+  "defaultProject": "Clima",
+  "cli": {
+    "analytics": false
+  }
 }
